@@ -22,7 +22,7 @@
         <a href="{{ route('shop') }}" class="cta">View more products</a>
     </section>
     <section class="categories _container">
-        <h2 style="font-family: 'Roboto', sans-serif;">Product Categories</h2>
+        <h2 style="font-family: 'Roboto', sans-serif;">Product Brand</h2>
         <div class="home-grid">
             @each('components.category', $categories, 'cate')
         </div>

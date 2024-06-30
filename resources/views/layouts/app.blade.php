@@ -27,13 +27,13 @@
     {{ $slot }}
     {{-- main contents --}}
     <footer>
-        <div class="footer-links _container flex_align">
+        {{-- <div class="footer-links _container flex_align">
             @each('components.temp', range(1, 4), 'link')
-        </div>
+        </div> --}}
         <div class="site-info">
             <a class="logo-link d-b" href="#"><img class="d-b" src="{{ asset('img/logo.jpg') }}"
                     alt="logo"></a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Kunal Saini !</p>
+            <p>©2024 Autologix Solution. All rights reserved.</p></p>
         </div>
     </footer>
 </body>
