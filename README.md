@@ -21,6 +21,8 @@ make sure the [less secure app access](https://myaccount.google.com/lesssecureap
 
 * Set your mail credentials in your `.env` file
 
+### Notes
+Preview demo : http://autologixsolution.pandawadev.cloud/ <br>
 admin account : admin@gmail.com, password : admin123 
 
 ## Screenshots
